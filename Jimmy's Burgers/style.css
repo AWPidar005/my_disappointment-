@@ -1,0 +1,13 @@
+button {
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    cursor: url(img/cursor1.png), auto;
+  }
+  
+  button:hover {
+    background-color: #f0f0f0;
+  }
