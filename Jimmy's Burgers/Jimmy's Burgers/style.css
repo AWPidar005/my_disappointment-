@@ -1,0 +1,22 @@
+button {
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    cursor: url(img/cursor1.png), auto;
+  }
+  
+  button:hover {
+    background-color: #f0f0f0;
+  }
+
+  .footer {
+    background-color: grey;
+    border-top: 2px darkgray;
+    
+}
+.carousel-inner{
+  display: flex;
+}
